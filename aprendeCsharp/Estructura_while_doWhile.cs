@@ -5,7 +5,7 @@ namespace aprendeCsharp
     class Estructua_while_doWhile
     {
         
-        static void Main(string[] args)
+        /* static void Main(string[] args)
         {
             
             //Ejercicio 1: Sí hoy es Miercoles 17 de Agosto... que día será el 30 de Agosto?
@@ -32,7 +32,7 @@ namespace aprendeCsharp
 
             Console.WriteLine("");
             
-        }
+        } */
         
     }
 }
